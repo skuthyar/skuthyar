@@ -2,9 +2,9 @@
 
 I am a soon to be PhD at UC San Diego with 10 years of bioinformatics experience in Python and R, quantitative NGS analyses and statistical modeling. My self-motivated projects show a passion for transforming life sciences through innovation and big data.
 
-- 🔭 I’m currently working on ... understanding how animal domestication has impacted gut microbiome composition and function.
-- - 💬 You can read about my work here: https://shorturl.at/JUIAf
-  - - 👯 I’m looking for full-time positions as a bioinformatician or data scientist. 
+🔭 I’m currently working on ... understanding how animal domestication has impacted gut microbiome composition and function.
+💬 You can read about my work here: https://shorturl.at/JUIAf
+👯 I’m looking for full-time positions as a bioinformatician or data scientist. 
 <!--
 **skuthyar/skuthyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
