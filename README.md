@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a soon to be PhD at UC San Diego with 10 years of bioinformatics experience in Python and R, quantitative NGS analyses and statistical modeling. My self-motivated projects show a passion for transforming life sciences through innovation and big data.
+I hold a PhD in quantitative biology from UC San Diego with 10 years of bioinformatics experience in Python and R, quantitative NGS analyses and statistical modeling. My self-motivated projects show a passion for transforming life sciences through innovation and big data.
 
 🔭 I’m currently working on ... understanding how animal domestication has impacted gut microbiome composition and function.
 
