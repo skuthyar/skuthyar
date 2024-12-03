@@ -6,7 +6,7 @@ I hold a PhD in quantitative biology from UC San Diego with 10 years of bioinfor
 
 💬 You can read about my work here: https://shorturl.at/JUIAf
 
-- 🌱 I’m currently learning to apply AI/machine learning to ecological questions. 
+🌱 I’m currently learning to apply AI/machine learning to ecological questions. 
   
 👯 I’m looking for full-time positions as a bioinformatician or data scientist. 
 <!--
